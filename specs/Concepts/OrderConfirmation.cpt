@@ -1,0 +1,6 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Kart bilgileri girilmeden siparis onayla butonuna tiklanir, hata mesaji geldigi kontrol edilir
+* "SiparisOnaylaButon" id'li elemente tikla
+* "KartHataLabel" xpath'li elementin oldugu kontrol edilir

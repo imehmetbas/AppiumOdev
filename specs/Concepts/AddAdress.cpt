@@ -1,0 +1,30 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Adres ekle butonuna tıklanır, sayfanın yuklendigi kontrol edilir
+* "AdresEkleButon" xpath'li elemente tikla
+* "AdresEkleText" xpath'li elementin oldugu kontrol edilir
+
+# Adres bilgileri girilir
+* "AdresAdTextBox" xpath'li elemente "Mehmet" text degerini gonder
+* "AdresSoyadTextBox" xpath'li elemente "Baş" text degerini gonder
+* "AdresTelTextBox" xpath'li elemente "5442048976" text degerini gonder
+* "AdresMahalleTextBox" xpath'li elementi bulana kadar swipe et
+* "AdresMahalleTextBox" xpath'li elemente "Testinium Mah." text degerini gonder
+* "SehirDropdownListButon" xpath'li elemente tikla
+* "IlkSehirSecim" xpath'li elemente tikla
+* "IlceDropdownListButon" xpath'li elemente tikla
+* "IlkIlceSecim" xpath'li elemente tikla
+* "MahalleDropdownListButon" xpath'li elemente tikla
+* "IlkMahalleSecim" xpath'li elemente tikla
+* "SokakCaddeTextBox" xpath'li elemente "Test Sok." text degerini gonder
+* "DaireNoTextBox" xpath'li elementi bulana kadar swipe et
+* "DaireNoTextBox" xpath'li elemente "5" text degerini gonder
+* "KatNoTextBox" xpath'li elemente "3" text degerini gonder
+* "BinaNoTextBox" xpath'li elemente "1" text degerini gonder
+* "AdresTarifiTextBox" xpath'li elemente "5 Katlı Bina" text degerini gonder
+* "AdresAdiTextBox" xpath'li elemente "Ev" text degerini gonder
+
+# Adres kaydet butonuna tıklanır,kayıt edildigi kontrol edilir
+* "AdresKaydetButon" xpath'li elemente tikla
+* "AdresEKlendiLabel" xpath'li elementin oldugu kontrol edilir

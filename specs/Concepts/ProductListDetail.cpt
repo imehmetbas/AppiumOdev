@@ -1,0 +1,16 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Arama cubuguna tiklanir, <aranankelime> aranir
+* "Searchbox" id'li elemente tikla
+* "Searchbox" id'li elemente <aranankelime> text degerini gonder
+* "KelimeTahminList" xpath'li elemente tikla
+
+# <aranankelime> kelimesinde listelenen ürünler kontrol edilir,rastgele urun secilir
+* "ListeAdiToolbar" id'li element <aranankelime> text değerini içerdiğini kontrol et
+* "RastgeleProductList" xpath'li elementin oldugu kontrol edilir
+* "RastgeleProductList" xpath'li elementi rasgele sec
+
+# Urun detay sayfası kontrol edilir
+* "ProductPageUrunGorseli" li elementin oldugu kontrol edilir
+* "ProductPageUrunAdi" li elementin oldugu kontrol edilir

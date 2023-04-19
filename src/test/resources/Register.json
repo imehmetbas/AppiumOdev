@@ -1,0 +1,59 @@
+
+[
+  {
+    "key": "UyeOlButon",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "RegisterDevamEtButon",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "RegisterEpostaTextBox",
+    "androidValue": "txtEmail"	,
+    "androidType": "id"
+  },
+  {
+    "key": "DogrulamaMailLabel",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "RegisterAdTextBox",
+    "androidValue": "txtName",
+    "androidType": "id"
+  },
+  {
+    "key": "RegisterSoyadTextBox",
+    "androidValue": "txtSurname",
+    "androidType": "id"
+  },
+  {
+    "key": "RegisterSifreTextBox",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View[3]/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "RegisterIletisimOnayLabel",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View[4]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "RegisterIletisimOnayCheckbox",
+    "androidValue": "checkSubscribeEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "RegisterSifreGosterButon",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View[3]/android.view.View/android.view.View/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HosgeldinizPopup",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  }
+]

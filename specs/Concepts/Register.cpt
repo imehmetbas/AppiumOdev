@@ -1,0 +1,25 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hesabim butonuna tiklanir,uye ol butonuna tiklanir,register sayfası acildigi kontrol edilir
+* "HesabimButon" id'li elemente tikla
+* "UyeOlButon" xpath'li elemente tikla
+* "RegisterEpostaTextBox" li elementin oldugu kontrol edilir
+
+# Uyelik icin mail adresi girilir,mail doğrulama adımına yönlendirilir
+* "RegisterEpostaTextBox" id'li elemente "mehmetbasuygulama@gmail.com" text degerini gonder
+* "RegisterDevamEtButon" id'li elemente tikla
+* "DogrulamaMailLabel" xpath'li elementin oldugu kontrol edilir
+
+# Mail dogrulama adımı sonrası uyelik bilgileri girilir
+* "RegisterAdTextBox" li elementin oldugu kontrol edilir
+* "RegisterAdTextBox" id'li elemente "Mehmet" text degerini gonder
+* "RegisterSoyadTextBox" id'li elemente "Bas" text degerini gonder
+* "RegisterSifreTextBox" id'li elemente "Aa87651234" text degerini gonder
+* "RegisterIletisimOnayLabel" xpath'li elementin oldugu kontrol edilir
+* "RegisterIletisimOnayCheckbox" li elementin oldugu kontrol edilir
+* "RegisterSifreGosterButon" xpath'li elementin oldugu kontrol edilir
+* "RegisterDevamEtButon" id'li elemente tikla
+
+# Basarili kayıt olundu hosgeldiniz mesajı goruntulenir
+* "HosgeldinizPopup" li elementin oldugu kontrol edilir

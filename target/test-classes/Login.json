@@ -1,0 +1,44 @@
+[
+
+  {
+    "key": "GirisYapButon",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_1\"]/android.view.ViewGroup/android.widget.Button"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "LoginUserNameTextBox",
+    "androidValue": "txtUserName"	,
+    "androidType": "id"
+  },
+  {
+    "key": "LoginGirisYapButon",
+    "androidValue": "btnLogin"	,
+    "androidType": "id"
+  },
+  {
+    "key": "LoginSifreTextBox",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "LoginSifreGirisYapButon",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  },
+  {
+    "key": "LoginSifreGosterButon",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.widget.Image"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "SifremiUnuttumLabel",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "GeriButon",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack"	,
+    "androidType": "id"
+  }
+
+]

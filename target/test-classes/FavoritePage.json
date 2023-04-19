@@ -1,0 +1,42 @@
+[
+  {
+    "key": "FavorilereEkleButon",
+    "androidValue": "com.pozitron.hepsiburada:id/selectorIconFavorite"	,
+    "androidType": "id"
+  },
+  {
+    "key": "FavorilereEkleBasariliPopup",
+    "androidValue": "com.pozitron.hepsiburada:id/imgIcon"	,
+    "androidType": "id"
+  },
+  {
+    "key": "GeriButon",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon"	,
+    "androidType": "id"
+  },
+  {
+    "key": "ListelerimButonNavbar",
+    "androidValue": " com.pozitron.hepsiburada:id/nav_graph_my_list"	,
+    "androidType": "id"
+  },
+  {
+    "key": "FavorilerListesi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[7]"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "IlkFavoriSecenekler",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.widget.ListView/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Image"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriListedenSilButon",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View/android.view.View[3]/android.view.View[2]"	,
+    "androidType": "xpath"
+  },
+  {
+    "key": "ListedenSilmeBasariliPopup",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View"	,
+    "androidType": "xpath"
+  }
+]

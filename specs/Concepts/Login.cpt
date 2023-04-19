@@ -1,0 +1,23 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hesabim butonuna tiklanir,giris yap butonuna tiklanir,giris sayfası acildigi kontrol edilir
+* "HesabimButon" id'li elemente tikla
+* "GirisYapButon" xpath'li elemente tikla
+* "LoginUserNameTextBox" li elementin oldugu kontrol edilir
+
+# Mail adresi girilir,giris yap butonuna tıklanır
+* "LoginUserNameTextBox" id'li elemente "mehmetbasuygulama@gmail.com" text degerini gonder
+* "LoginGirisYapButon" id'li elemente tikla
+
+# Sifre girilir,giris yap butonuna basılır,sayfadaki elementler kontrol edilir
+* "LoginSifreTextBox" xpath'li elementin oldugu kontrol edilir
+* "LoginSifreTextBox" xpath'li elemente "Aa87651234" text degerini gonder
+* "LoginSifreGosterButon" xpath'li elementin oldugu kontrol edilir
+* "SifremiUnuttumLabel" xpath'li elementin oldugu kontrol edilir
+* "LoginSifreGirisYapButon" id'li elemente tikla
+
+# Basarili giris yapildi hosgeldiniz mesajı goruntulenir
+* "HosgeldinizPopup" li elementin oldugu kontrol edilir
+* "GeriButon" id'li elemente tikla
+

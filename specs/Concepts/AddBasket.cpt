@@ -1,0 +1,17 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Urun sepete eklenir,eklendigi kontrol edilir,sepete git butonuna tıklanır
+* "SepeteEkleButon" id'li elemente tikla
+* "SepeteEklemeBasariliText" id'li element "Ürün sepetinizde" text değerini içerdiğini kontrol et
+* "SepeteEklemeBasariliText" id'li elemente tikla
+
+# Sepetteki urun silinir,silinen urun geri al butonu ile tekrar sepete eklenir
+* "SepettenUrunSil" xpath'li elemente tikla
+* "SepettenUrunSilOnay" xpath'li element varsa tikla
+* "SepettenKaldırıldıOnay" li elementin oldugu kontrol edilir
+* "SepettenKaldırılanUrunuGeriAl" id'li elemente tikla
+
+# Alisverisi tamamla butona tiklanir, sayfanin acildigi kontrol edilir
+* "AlısverisiTamamlaButon" id'li elemente tikla
+* "SepetDetaySayfaKontrol" li elementin oldugu kontrol edilir

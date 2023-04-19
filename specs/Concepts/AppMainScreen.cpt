@@ -1,0 +1,11 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsiburada uygulamasi acilir, uygulamanin acildigi kontrol edilir
+* "DevamButon" xpath'li element varsa tikla
+* "TamamlaButon" id'li element varsa tikla
+* "HesabimButon" li element gorunur olana kadar bekle
+* "HesabimButon" li elementin oldugu kontrol edilir
+
+# Anasayfa acilir
+* "AnasayfaButon" xpath'li elemente tikla

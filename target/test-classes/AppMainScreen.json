@@ -1,0 +1,27 @@
+[
+  {
+    "key": "DevamButon",
+    "androidValue": "//androidx.cardview.widget.CardView[@content-desc=\"campaignButton2\"]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView[2]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "TamamlaButon",
+    "androidValue": "com.pozitron.hepsiburada:id/menuItemAllFakeView"	,
+    "androidType": "id"
+  },
+  {
+    "key": "HesabimButon",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button"	,
+    "androidType": "id"
+  },
+  {
+    "key": "AnasayfaButon",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Anasayfam\"]/android.widget.FrameLayout/android.widget.ImageView"	,
+    "androidType": "xpath"
+  }
+
+
+
+
+]

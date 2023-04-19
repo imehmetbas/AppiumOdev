@@ -1,0 +1,24 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Urun favori ekleme butonuna tıklanir,favori ekleme kontrol edilir
+* "FavorilereEkleButon" id'li elemente tikla
+* "FavorilereEkleBasariliPopup" li elementin oldugu kontrol edilir
+
+# Anasayfaya donulur
+* "GeriButon" id'li elemente tikla
+
+# Favori sayfasına gidilir,sayfanin geldigi kontrol edilir
+* "ListelerimButonNavbar" id'li elemente tikla
+* "FavorilerListesi" xpath'li elementin oldugu kontrol edilir
+
+# Favori detay sayfasına gidilir
+* "IlkFavoriSecenekler" xpath'li elementin oldugu kontrol edilir
+* "FavorilerListesi" xpath'li elemente tikla
+
+# Favori silme islemi yapilir
+* "IlkFavoriSecenekler" xpath'li elemente tikla
+* "FavoriListedenSilButon" xpath'li elemente tikla
+
+# Favori silme basarili mesajı goruntulenir
+* "ListedenSilmeBasariliPopup" xpath'li elementin oldugu kontrol edilir
